@@ -1,0 +1,321 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1641427350905667588",
+        "7_1641427350909796352",
+        "7_1641427350905659392"
+      ]
+    },
+    "author_id": "1496841601640898563",
+    "conversation_id": "1641421391911337985",
+    "created_at": "2023-03-30T13:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2023-03-30T13:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1641427511564292097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1261344091075260416",
+          "start": 0,
+          "username": "19wwixxxxxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/9b2qEumx9c",
+          "end": 42,
+          "expanded_url": "https://twitter.com/1_048596_SG/status/1641427511564292097/video/1",
+          "media_key": "7_1641427350905667588",
+          "start": 19,
+          "url": "https://t.co/9b2qEumx9c"
+        },
+        {
+          "display_url": "pic.twitter.com/9b2qEumx9c",
+          "end": 42,
+          "expanded_url": "https://twitter.com/1_048596_SG/status/1641427511564292097/video/1",
+          "media_key": "7_1641427350909796352",
+          "start": 19,
+          "url": "https://t.co/9b2qEumx9c"
+        },
+        {
+          "display_url": "pic.twitter.com/9b2qEumx9c",
+          "end": 42,
+          "expanded_url": "https://twitter.com/1_048596_SG/status/1641427511564292097/video/1",
+          "media_key": "7_1641427350905659392",
+          "start": 19,
+          "url": "https://t.co/9b2qEumx9c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1641427511564292097",
+    "in_reply_to_user_id": "1261344091075260416",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1641421391911337985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@19wwixxxxxx 看看猫片🥵 https://t.co/9b2qEumx9c"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1641421391911337985].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1641421391911337985",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1641421391911337985"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13571,
+        "height": 720,
+        "media_key": "7_1641427350905667588",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1641427350905667588/pu/img/VdFT1zfgRuQCjc7M.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1641427350905667588/pu/vid/640x360/2cPAmQiv_f9mP0HA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1641427350905667588/pu/vid/480x270/UI8ZXM_2Y2r0wmkG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1641427350905667588/pu/pl/nrJSjisPFv7p3uYJ.m3u8?tag=12&container=fmp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1641427350905667588/pu/vid/1280x720/C9wKKjp4CIjon0xW.mp4?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 4735,
+        "height": 720,
+        "media_key": "7_1641427350909796352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1641427350909796352/pu/img/Deov7B6IjUlWg12T.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1641427350909796352/pu/vid/480x270/9qb6xkzjd2ith9Ru.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1641427350909796352/pu/vid/1280x720/etDwNsOHUZLwTa4I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1641427350909796352/pu/vid/640x360/XaH5hIxAZKOuUHYv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1641427350909796352/pu/pl/RvHCiWgXtMbYCYJ6.m3u8?tag=12&container=fmp4"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 45001,
+        "height": 720,
+        "media_key": "7_1641427350905659392",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1641427350905659392/pu/img/2Nx_zYuZjb5DEz58.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1641427350905659392/pu/vid/480x270/mgXONpu2QPMeA81d.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1641427350905659392/pu/pl/s2QX6c9cb0wLo0Ej.m3u8?tag=12&container=fmp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1641427350905659392/pu/vid/1280x720/BNL8NuTi_v935JAG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1641427350905659392/pu/vid/640x360/MJxKJEM4_d67efkc.mp4?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1641427350905667588",
+            "7_1641427350909796352",
+            "7_1641427350905659392"
+          ]
+        },
+        "author_id": "1496841601640898563",
+        "conversation_id": "1641421391911337985",
+        "created_at": "2023-03-30T13:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-30T13:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1641427511564292097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1261344091075260416",
+              "start": 0,
+              "username": "19wwixxxxxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/9b2qEumx9c",
+              "end": 42,
+              "expanded_url": "https://twitter.com/1_048596_SG/status/1641427511564292097/video/1",
+              "media_key": "7_1641427350905667588",
+              "start": 19,
+              "url": "https://t.co/9b2qEumx9c"
+            },
+            {
+              "display_url": "pic.twitter.com/9b2qEumx9c",
+              "end": 42,
+              "expanded_url": "https://twitter.com/1_048596_SG/status/1641427511564292097/video/1",
+              "media_key": "7_1641427350909796352",
+              "start": 19,
+              "url": "https://t.co/9b2qEumx9c"
+            },
+            {
+              "display_url": "pic.twitter.com/9b2qEumx9c",
+              "end": 42,
+              "expanded_url": "https://twitter.com/1_048596_SG/status/1641427511564292097/video/1",
+              "media_key": "7_1641427350905659392",
+              "start": 19,
+              "url": "https://t.co/9b2qEumx9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1641427511564292097",
+        "in_reply_to_user_id": "1261344091075260416",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1641421391911337985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@19wwixxxxxx 看看猫片🥵 https://t.co/9b2qEumx9c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-24T13:37:30.000Z",
+        "description": "INFP-A型✟武装直升姬✟——责任监护@xiaomenglg中；鸡排宝宝！@zhajipainie8964是崽崽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "xiaomenglg"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "zhajipainie8964"
+              }
+            ]
+          }
+        },
+        "id": "1496841601640898563",
+        "location": "Laniakea Supercluster",
+        "name": "❀嶺芷鈴蘭❀",
+        "pinned_tweet_id": "1641200828047392769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639426794158784513/C-Wlv5av_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 249,
+          "listed_count": 2,
+          "tweet_count": 3635
+        },
+        "username": "1_048596_SG",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T17:14:15.000Z",
+        "description": "rhythm game player/我很会倒垃圾/骚扰直接屏蔽",
+        "id": "1261344091075260416",
+        "location": "🏠",
+        "name": "uwuwuwu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634458328675012611/4vOIHn1i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 363,
+          "listed_count": 2,
+          "tweet_count": 3053
+        },
+        "username": "19wwixxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

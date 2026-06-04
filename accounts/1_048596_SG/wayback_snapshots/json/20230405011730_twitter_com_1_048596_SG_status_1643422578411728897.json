@@ -1,0 +1,241 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1642950238666215426"
+      ]
+    },
+    "author_id": "1496841601640898563",
+    "conversation_id": "1643422578411728897",
+    "created_at": "2023-04-05T01:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-05T01:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1643422578411728897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1265126453299077125",
+          "start": 3,
+          "username": "LuckyStarPicBot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/j9b4TEadZ0",
+          "end": 44,
+          "expanded_url": "https://twitter.com/LuckyStarPicBot/status/1642950241711169540/photo/1",
+          "media_key": "3_1642950238666215426",
+          "start": 21,
+          "url": "https://t.co/j9b4TEadZ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1643422578411728897",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "1642950241711169540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuckyStarPicBot: https://t.co/j9b4TEadZ0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1642950238666215426",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FszuiY9X0AIKeXp.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1642950238666215426"
+          ]
+        },
+        "author_id": "1496841601640898563",
+        "conversation_id": "1643422578411728897",
+        "created_at": "2023-04-05T01:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-05T01:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1643422578411728897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1265126453299077125",
+              "start": 3,
+              "username": "LuckyStarPicBot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/j9b4TEadZ0",
+              "end": 44,
+              "expanded_url": "https://twitter.com/LuckyStarPicBot/status/1642950241711169540/photo/1",
+              "media_key": "3_1642950238666215426",
+              "start": 21,
+              "url": "https://t.co/j9b4TEadZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1643422578411728897",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "1642950241711169540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LuckyStarPicBot: https://t.co/j9b4TEadZ0"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1642950238666215426"
+          ]
+        },
+        "author_id": "1265126453299077125",
+        "conversation_id": "1642950241711169540",
+        "created_at": "2023-04-03T18:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-03T18:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1642950241711169540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/j9b4TEadZ0",
+              "end": 23,
+              "expanded_url": "https://twitter.com/LuckyStarPicBot/status/1642950241711169540/photo/1",
+              "media_key": "3_1642950238666215426",
+              "start": 0,
+              "url": "https://t.co/j9b4TEadZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1642950241711169540",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 10031,
+          "like_count": 535,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/j9b4TEadZ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-24T13:37:30.000Z",
+        "description": "INFP-A型✟武装直升姬✟——责任监护@xiaomenglg中；鸡排宝宝！@zhajipainie8964是崽崽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "xiaomenglg"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "zhajipainie8964"
+              }
+            ]
+          }
+        },
+        "id": "1496841601640898563",
+        "location": "Laniakea Supercluster",
+        "name": "❀嶺芷鈴蘭❀",
+        "pinned_tweet_id": "1642292226540617729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639426794158784513/C-Wlv5av_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 265,
+          "listed_count": 3,
+          "tweet_count": 4034
+        },
+        "username": "1_048596_SG",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-26T03:43:57.000Z",
+        "description": "Hiya Luckies!\n\nI post a screenshot from Lucky Star every 30 minutes.\n\nBye-nee~!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Maxweill/Konak…",
+                "end": 23,
+                "expanded_url": "https://github.com/Maxweill/Konakona",
+                "start": 0,
+                "url": "https://t.co/RkdqC44PSd"
+              }
+            ]
+          }
+        },
+        "id": "1265126453299077125",
+        "location": "Check our Github; make a bot!",
+        "name": "Lucky Star Pic Bot",
+        "pinned_tweet_id": "1642012661415301120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642341923993034753/9zaY9BD3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33497,
+          "following_count": 1,
+          "listed_count": 145,
+          "tweet_count": 46430
+        },
+        "url": "https://t.co/RkdqC44PSd",
+        "username": "LuckyStarPicBot",
+        "verified": false
+      }
+    ]
+  }
+}

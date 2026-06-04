@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1496841601640898563",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1636167121506914305",
+    "created_at": "2023-03-16T03:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2023-03-16T03:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1636206576179597313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551019993575202817",
+          "start": 0,
+          "username": "bestgod98150800"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1636206576179597313",
+    "in_reply_to_user_id": "1551019993575202817",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1636206383552151553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bestgod98150800 😡😡😡你地理没学好！正对面耶）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1496841601640898563",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1636167121506914305",
+        "created_at": "2023-03-16T03:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-16T03:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1636206576179597313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1551019993575202817",
+              "start": 0,
+              "username": "bestgod98150800"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1636206576179597313",
+        "in_reply_to_user_id": "1551019993575202817",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1636206383552151553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bestgod98150800 😡😡😡你地理没学好！正对面耶）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1551019993575202817",
+        "conversation_id": "1636167121506914305",
+        "created_at": "2023-03-16T03:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-16T03:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1636206383552151553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1496841601640898563",
+              "start": 0,
+              "username": "1_048596_SG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1636206383552151553",
+        "in_reply_to_user_id": "1496841601640898563",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1636206205646393346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1_048596_SG 老哥已经是美✌🏻了？😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-24T13:37:30.000Z",
+        "description": "✟武装直升姬✟",
+        "id": "1496841601640898563",
+        "location": "Laniakea Supercluster",
+        "name": "❀嶺芷鈴蘭❀",
+        "pinned_tweet_id": "1635644496506507266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632812278859833346/Q6CDP2J__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 179,
+          "listed_count": 0,
+          "tweet_count": 2227
+        },
+        "username": "1_048596_SG",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T01:43:21.000Z",
+        "description": "在长沙捏",
+        "id": "1551019993575202817",
+        "name": "别让欲望击穿了意志",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615304134311432194/gJSQkVa7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 20,
+          "listed_count": 0,
+          "tweet_count": 236
+        },
+        "username": "bestgod98150800",
+        "verified": false
+      }
+    ]
+  }
+}

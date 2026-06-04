@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1496841601640898563",
+    "conversation_id": "1633661141586165762",
+    "created_at": "2023-03-10T21:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2023-03-10T22:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1634306313181188098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1506261479066341385",
+          "start": 0,
+          "username": "ban_xsy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1634306313181188098",
+    "in_reply_to_user_id": "1506261479066341385",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1633661141586165762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ban_xsy 总之在推特这里申请一下导出！两天时间就会把邮件返给你一个装着所有推文的电子骨灰盒嗯……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1496841601640898563",
+        "conversation_id": "1633661141586165762",
+        "created_at": "2023-03-10T21:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-10T22:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1634306313181188098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1506261479066341385",
+              "start": 0,
+              "username": "ban_xsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1634306313181188098",
+        "in_reply_to_user_id": "1506261479066341385",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1633661141586165762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ban_xsy 总之在推特这里申请一下导出！两天时间就会把邮件返给你一个装着所有推文的电子骨灰盒嗯……"
+      },
+      {
+        "attachments": {},
+        "author_id": "1506261479066341385",
+        "conversation_id": "1633661141586165762",
+        "created_at": "2023-03-09T02:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-09T03:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1633661141586165762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1633661141586165762",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 6841,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的很想好好生活退出网络世界但真的好舍不得自己的一点心血"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-24T13:37:30.000Z",
+        "description": "✟武装直升姬✟",
+        "id": "1496841601640898563",
+        "location": "Laniakea Supercluster",
+        "name": "❀嶺苝鈴蘭❀",
+        "pinned_tweet_id": "1633966471138226178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632812278859833346/Q6CDP2J__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 148,
+          "listed_count": 0,
+          "tweet_count": 1720
+        },
+        "username": "1_048596_SG",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T13:28:44.000Z",
+        "description": "梦安眠于九霄\n文章内容自辩\n爱发电 https://t.co/fwvCi13gbA\n您的每一笔赞助都是我创作优质内容的动力\n私信大部分会看\n做一个文明青年\n内容支持转载墙内但请打码\n不接推广\n祝各位幸福\n讨厌地雷女，慎重关注",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "afdian.net/a/rou13",
+                "end": 41,
+                "expanded_url": "https://afdian.net/a/rou13",
+                "start": 18,
+                "url": "https://t.co/fwvCi13gbA"
+              }
+            ]
+          }
+        },
+        "id": "1506261479066341385",
+        "location": "🚪88无福利 ",
+        "name": "瓇",
+        "pinned_tweet_id": "1632996061475393536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624543912110219264/em6iP0st_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13048,
+          "following_count": 50,
+          "listed_count": 16,
+          "tweet_count": 1803
+        },
+        "username": "ban_xsy",
+        "verified": false
+      }
+    ]
+  }
+}

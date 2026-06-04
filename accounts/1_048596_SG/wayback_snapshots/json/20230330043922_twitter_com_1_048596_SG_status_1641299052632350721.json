@@ -1,0 +1,203 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1496841601640898563",
+    "conversation_id": "1641281268162633729",
+    "created_at": "2023-03-30T04:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2023-03-30T05:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1641299052632350721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1546834976813219840",
+          "start": 0,
+          "username": "AmamizuRei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1641299052632350721",
+    "in_reply_to_user_id": "1546834976813219840",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1641298740542857216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmamizuRei 今天没有什么特别可吃的\n因为这里只有食堂wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1496841601640898563",
+        "conversation_id": "1641281268162633729",
+        "created_at": "2023-03-30T04:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-30T05:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1641299052632350721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1546834976813219840",
+              "start": 0,
+              "username": "AmamizuRei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1641299052632350721",
+        "in_reply_to_user_id": "1546834976813219840",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1641298740542857216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmamizuRei 今天没有什么特别可吃的\n因为这里只有食堂wwww"
+      },
+      {
+        "attachments": {},
+        "author_id": "1546834976813219840",
+        "conversation_id": "1641281268162633729",
+        "created_at": "2023-03-30T04:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-30T05:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1641298740542857216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1496841601640898563",
+              "start": 0,
+              "username": "1_048596_SG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1641298740542857216",
+        "in_reply_to_user_id": "1496841601640898563",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1641281268162633729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1_048596_SG 生日快乐(其实非常关心今天吃啥)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-24T13:37:30.000Z",
+        "description": "INFP-A型✟武装直升姬✟——责任监护@xiaomenglg中；鸡排宝宝！@zhajipainie8964是崽崽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "xiaomenglg"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "zhajipainie8964"
+              }
+            ]
+          }
+        },
+        "id": "1496841601640898563",
+        "location": "Laniakea Supercluster",
+        "name": "❀嶺芷鈴蘭❀",
+        "pinned_tweet_id": "1641200828047392769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639426794158784513/C-Wlv5av_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 249,
+          "listed_count": 2,
+          "tweet_count": 3623
+        },
+        "username": "1_048596_SG",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-12T12:33:15.000Z",
+        "description": "搞笑推    分身 @Amamizu389553                                                                                      \n门槛：一卡车🍊 + 你家冰箱里的所有东西",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "Amamizu389553"
+              }
+            ]
+          }
+        },
+        "id": "1546834976813219840",
+        "location": "我不在天水市",
+        "name": "橘子猫天水🍊",
+        "pinned_tweet_id": "1633449755325112321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625848165466542086/9A1FEoiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 486,
+          "listed_count": 4,
+          "tweet_count": 3286
+        },
+        "username": "AmamizuRei",
+        "verified": false
+      }
+    ]
+  }
+}
