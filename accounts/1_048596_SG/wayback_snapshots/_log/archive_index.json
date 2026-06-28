@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-06-28T06:11:08",
+  "last_updated": "2026-06-28T06:11:21",
   "html": {
     "https://web.archive.org/web/20230310213243if_/https://twitter.com/1_048596_SG/status/1634306313181188098": {
       "status": "done",
@@ -518,8 +518,8 @@
           "https://pbs.twimg.com/profile_images/1610293135195901952/H3CZl5QF_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-28T06:11:00",
-      "miss_count": 7
+      "last_updated": "2026-06-28T06:11:21",
+      "miss_count": 8
     },
     "20230315225049_twitter_com_1_048596_SG_status_1636137907013447681.json": {
       "status": "done",
